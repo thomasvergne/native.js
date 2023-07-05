@@ -64,7 +64,6 @@ library
   exposed-modules:
     Language.NativeJS.CST.Expression
     Language.NativeJS.CST.Modules.Literal
-    Language.NativeJS.CST.Modules.Located
     Language.NativeJS.CST.Operators
     Language.NativeJS.CST.Property
     Language.NativeJS.Parser.Lexer
